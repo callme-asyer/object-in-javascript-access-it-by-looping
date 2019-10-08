@@ -1,0 +1,1 @@
+# object-in-javascript-access-it-by-looping
